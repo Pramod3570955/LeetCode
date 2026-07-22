@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pramod3570955/LeetCode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Pramod3570955/LeetCode/tree/master/0010-regular-expression-matching) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Pramod3570955/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Pramod3570955/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
@@ -100,6 +102,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pramod3570955/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/Pramod3570955/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Pramod3570955/LeetCode/tree/master/0020-valid-parentheses) |
 ## Divide and Conquer
 |  |
