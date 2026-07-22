@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pramod3570955/LeetCode/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/Pramod3570955/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pramod3570955/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Pramod3570955/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0024-swap-nodes-in-pairs](https://github.com/Pramod3570955/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 ## Two Pointers
 |  |
 | ------- |
