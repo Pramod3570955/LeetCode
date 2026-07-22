@@ -65,6 +65,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pramod3570955/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Pramod3570955/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Pramod3570955/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Pramod3570955/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pramod3570955/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0832-flipping-an-image](https://github.com/Pramod3570955/LeetCode/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pramod3570955/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -134,6 +135,7 @@
 | [0010-regular-expression-matching](https://github.com/Pramod3570955/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Pramod3570955/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pramod3570955/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/Pramod3570955/LeetCode/tree/master/0125-valid-palindrome) |
 ## Divide and Conquer
 |  |
 | ------- |
