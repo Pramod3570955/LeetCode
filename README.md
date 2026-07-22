@@ -21,6 +21,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pramod3570955/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Pramod3570955/LeetCode/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pramod3570955/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pramod3570955/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Pramod3570955/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Pramod3570955/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Pramod3570955/LeetCode/tree/master/0645-set-mismatch) |
@@ -39,6 +40,7 @@
 | [0001-two-sum](https://github.com/Pramod3570955/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pramod3570955/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Pramod3570955/LeetCode/tree/master/0041-first-missing-positive) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pramod3570955/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Pramod3570955/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pramod3570955/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Linked List
