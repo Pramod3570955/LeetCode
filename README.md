@@ -42,12 +42,14 @@
 | [0002-add-two-numbers](https://github.com/Pramod3570955/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Pramod3570955/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Pramod3570955/LeetCode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Pramod3570955/LeetCode/tree/master/0050-powx-n) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pramod3570955/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Pramod3570955/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Pramod3570955/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Pramod3570955/LeetCode/tree/master/0050-powx-n) |
 ## Two Pointers
 |  |
 | ------- |
