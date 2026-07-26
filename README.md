@@ -58,6 +58,7 @@
 | [0050-powx-n](https://github.com/Pramod3570955/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Pramod3570955/LeetCode/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pramod3570955/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3536-maximum-product-of-two-digits](https://github.com/Pramod3570955/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Pramod3570955/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Recursion
 |  |
@@ -120,6 +121,7 @@
 | [0645-set-mismatch](https://github.com/Pramod3570955/LeetCode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pramod3570955/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pramod3570955/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/Pramod3570955/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
