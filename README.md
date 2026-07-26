@@ -239,4 +239,8 @@
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Pramod3570955/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Pramod3570955/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
