@@ -23,6 +23,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pramod3570955/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pramod3570955/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Pramod3570955/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Pramod3570955/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Pramod3570955/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Pramod3570955/LeetCode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/Pramod3570955/LeetCode/tree/master/0832-flipping-an-image) |
@@ -56,6 +57,7 @@
 | [0009-palindrome-number](https://github.com/Pramod3570955/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Pramod3570955/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Pramod3570955/LeetCode/tree/master/0070-climbing-stairs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Pramod3570955/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -113,6 +115,7 @@
 | [0015-3sum](https://github.com/Pramod3570955/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Pramod3570955/LeetCode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Pramod3570955/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Pramod3570955/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Pramod3570955/LeetCode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pramod3570955/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pramod3570955/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
