@@ -138,6 +138,7 @@
 | [0053-maximum-subarray](https://github.com/Pramod3570955/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Pramod3570955/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pramod3570955/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2430-maximum-deletions-on-a-string](https://github.com/Pramod3570955/LeetCode/tree/master/2430-maximum-deletions-on-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -166,6 +167,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pramod3570955/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Pramod3570955/LeetCode/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/Pramod3570955/LeetCode/tree/master/0214-shortest-palindrome) |
+| [2430-maximum-deletions-on-a-string](https://github.com/Pramod3570955/LeetCode/tree/master/2430-maximum-deletions-on-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pramod3570955/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Pramod3570955/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Divide and Conquer
@@ -184,6 +186,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pramod3570955/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Pramod3570955/LeetCode/tree/master/0214-shortest-palindrome) |
+| [2430-maximum-deletions-on-a-string](https://github.com/Pramod3570955/LeetCode/tree/master/2430-maximum-deletions-on-a-string) |
 ## Memoization
 |  |
 | ------- |
@@ -267,8 +270,10 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Pramod3570955/LeetCode/tree/master/0214-shortest-palindrome) |
+| [2430-maximum-deletions-on-a-string](https://github.com/Pramod3570955/LeetCode/tree/master/2430-maximum-deletions-on-a-string) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Pramod3570955/LeetCode/tree/master/0214-shortest-palindrome) |
+| [2430-maximum-deletions-on-a-string](https://github.com/Pramod3570955/LeetCode/tree/master/2430-maximum-deletions-on-a-string) |
 <!---LeetCode Topics End-->
