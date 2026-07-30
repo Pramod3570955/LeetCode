@@ -97,6 +97,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pramod3570955/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0832-flipping-an-image](https://github.com/Pramod3570955/LeetCode/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pramod3570955/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/Pramod3570955/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -183,6 +184,7 @@
 | [0125-valid-palindrome](https://github.com/Pramod3570955/LeetCode/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/Pramod3570955/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Pramod3570955/LeetCode/tree/master/0412-fizz-buzz) |
+| [1768-merge-strings-alternately](https://github.com/Pramod3570955/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2430-maximum-deletions-on-a-string](https://github.com/Pramod3570955/LeetCode/tree/master/2430-maximum-deletions-on-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pramod3570955/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pramod3570955/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
