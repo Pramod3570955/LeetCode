@@ -96,6 +96,7 @@
 | [0088-merge-sorted-array](https://github.com/Pramod3570955/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Pramod3570955/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pramod3570955/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Pramod3570955/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0832-flipping-an-image](https://github.com/Pramod3570955/LeetCode/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pramod3570955/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Pramod3570955/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -184,6 +185,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pramod3570955/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Pramod3570955/LeetCode/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/Pramod3570955/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Pramod3570955/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Pramod3570955/LeetCode/tree/master/0412-fizz-buzz) |
 | [1768-merge-strings-alternately](https://github.com/Pramod3570955/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2430-maximum-deletions-on-a-string](https://github.com/Pramod3570955/LeetCode/tree/master/2430-maximum-deletions-on-a-string) |
