@@ -64,6 +64,7 @@
 | [0070-climbing-stairs](https://github.com/Pramod3570955/LeetCode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Pramod3570955/LeetCode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pramod3570955/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pramod3570955/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Pramod3570955/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Pramod3570955/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Pramod3570955/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -175,6 +176,7 @@
 | [0214-shortest-palindrome](https://github.com/Pramod3570955/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Pramod3570955/LeetCode/tree/master/0412-fizz-buzz) |
 | [2430-maximum-deletions-on-a-string](https://github.com/Pramod3570955/LeetCode/tree/master/2430-maximum-deletions-on-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pramod3570955/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pramod3570955/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Pramod3570955/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Pramod3570955/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -189,6 +191,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pramod3570955/LeetCode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Pramod3570955/LeetCode/tree/master/0135-candy) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pramod3570955/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String Matching
 |  |
 | ------- |
