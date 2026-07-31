@@ -37,6 +37,7 @@
 | [1470-shuffle-the-array](https://github.com/Pramod3570955/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Pramod3570955/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Pramod3570955/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Pramod3570955/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Pramod3570955/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Pramod3570955/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/Pramod3570955/LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -131,6 +132,7 @@
 | [0048-rotate-image](https://github.com/Pramod3570955/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Pramod3570955/LeetCode/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/Pramod3570955/LeetCode/tree/master/0832-flipping-an-image) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Pramod3570955/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Pramod3570955/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Bit Manipulation
 |  |
