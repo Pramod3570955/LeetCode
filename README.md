@@ -23,6 +23,7 @@
 | [0135-candy](https://github.com/Pramod3570955/LeetCode/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pramod3570955/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Pramod3570955/LeetCode/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/Pramod3570955/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pramod3570955/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Pramod3570955/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Pramod3570955/LeetCode/tree/master/0605-can-place-flowers) |
@@ -218,6 +219,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pramod3570955/LeetCode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Pramod3570955/LeetCode/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/Pramod3570955/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Pramod3570955/LeetCode/tree/master/0605-can-place-flowers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pramod3570955/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pramod3570955/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
