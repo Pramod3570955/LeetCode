@@ -1,4 +1,3 @@
-# Write your MySQL query statement below
 SELECT
     query_name,
     ROUND(AVG(rating / position),2) AS quality,
