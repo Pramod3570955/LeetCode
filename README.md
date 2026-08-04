@@ -332,6 +332,7 @@
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Pramod3570955/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Pramod3570955/LeetCode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Pramod3570955/LeetCode/tree/master/0584-find-customer-referee) |
+| [0585-investments-in-2016](https://github.com/Pramod3570955/LeetCode/tree/master/0585-investments-in-2016) |
 | [0595-big-countries](https://github.com/Pramod3570955/LeetCode/tree/master/0595-big-countries) |
 | [0608-tree-node](https://github.com/Pramod3570955/LeetCode/tree/master/0608-tree-node) |
 | [0620-not-boring-movies](https://github.com/Pramod3570955/LeetCode/tree/master/0620-not-boring-movies) |
