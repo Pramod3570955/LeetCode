@@ -327,6 +327,7 @@
 | [0178-rank-scores](https://github.com/Pramod3570955/LeetCode/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/Pramod3570955/LeetCode/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Pramod3570955/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0184-department-highest-salary](https://github.com/Pramod3570955/LeetCode/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/Pramod3570955/LeetCode/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/Pramod3570955/LeetCode/tree/master/0262-trips-and-users) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Pramod3570955/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
