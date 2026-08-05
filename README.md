@@ -39,6 +39,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Pramod3570955/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pramod3570955/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pramod3570955/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pramod3570955/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pramod3570955/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/Pramod3570955/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pramod3570955/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -130,6 +131,7 @@
 | [0704-binary-search](https://github.com/Pramod3570955/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pramod3570955/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pramod3570955/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pramod3570955/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 | [0048-rotate-image](https://github.com/Pramod3570955/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Pramod3570955/LeetCode/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/Pramod3570955/LeetCode/tree/master/0832-flipping-an-image) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pramod3570955/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pramod3570955/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Pramod3570955/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Bit Manipulation
