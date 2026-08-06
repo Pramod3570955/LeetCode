@@ -92,6 +92,7 @@
 | [1512-number-of-good-pairs](https://github.com/Pramod3570955/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Pramod3570955/LeetCode/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pramod3570955/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Pramod3570955/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Pramod3570955/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Pramod3570955/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Pramod3570955/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -407,4 +408,8 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Pramod3570955/LeetCode/tree/master/3310-remove-methods-from-project) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Pramod3570955/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
