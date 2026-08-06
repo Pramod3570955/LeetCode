@@ -41,6 +41,7 @@
 | [0905-sort-array-by-parity](https://github.com/Pramod3570955/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pramod3570955/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pramod3570955/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1089-duplicate-zeros](https://github.com/Pramod3570955/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pramod3570955/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pramod3570955/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pramod3570955/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -128,6 +129,7 @@
 | [0832-flipping-an-image](https://github.com/Pramod3570955/LeetCode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Pramod3570955/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pramod3570955/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Pramod3570955/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/Pramod3570955/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
