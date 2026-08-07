@@ -15,6 +15,7 @@
 | [0041-first-missing-positive](https://github.com/Pramod3570955/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Pramod3570955/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Pramod3570955/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Pramod3570955/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Pramod3570955/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Pramod3570955/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Pramod3570955/LeetCode/tree/master/0066-plus-one) |
@@ -66,6 +67,7 @@
 | [0001-two-sum](https://github.com/Pramod3570955/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pramod3570955/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Pramod3570955/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Pramod3570955/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Pramod3570955/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Pramod3570955/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Pramod3570955/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -191,6 +193,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Pramod3570955/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Pramod3570955/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Pramod3570955/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Pramod3570955/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Pramod3570955/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Pramod3570955/LeetCode/tree/master/0242-valid-anagram) |
@@ -246,6 +249,7 @@
 | [0010-regular-expression-matching](https://github.com/Pramod3570955/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Pramod3570955/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pramod3570955/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Pramod3570955/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Pramod3570955/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Pramod3570955/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Pramod3570955/LeetCode/tree/master/0214-shortest-palindrome) |
