@@ -66,6 +66,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pramod3570955/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Pramod3570955/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Pramod3570955/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Pramod3570955/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pramod3570955/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pramod3570955/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Pramod3570955/LeetCode/tree/master/0645-set-mismatch) |
@@ -188,6 +189,7 @@
 | [0018-4sum](https://github.com/Pramod3570955/LeetCode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Pramod3570955/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Pramod3570955/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Pramod3570955/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pramod3570955/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Pramod3570955/LeetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pramod3570955/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -241,6 +243,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pramod3570955/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Pramod3570955/LeetCode/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/Pramod3570955/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0242-valid-anagram](https://github.com/Pramod3570955/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Pramod3570955/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pramod3570955/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Pramod3570955/LeetCode/tree/master/0392-is-subsequence) |
