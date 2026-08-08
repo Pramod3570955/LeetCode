@@ -6,7 +6,8 @@ class Solution {
            while (l < r && !Character.isLetterOrDigit(s.charAt(r))) r--;
            if (Character.toLowerCase(s.charAt(l)) != Character.toLowerCase(s.charAt(r)))
               return false;
-              l++; r--;
+              l++;
+              r--;
         }
         return true;
     }
