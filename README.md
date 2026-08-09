@@ -32,6 +32,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Pramod3570955/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Pramod3570955/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Pramod3570955/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Pramod3570955/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/Pramod3570955/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pramod3570955/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/Pramod3570955/LeetCode/tree/master/0454-4sum-ii) |
@@ -82,6 +83,7 @@
 | [0268-missing-number](https://github.com/Pramod3570955/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Pramod3570955/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Pramod3570955/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Pramod3570955/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Pramod3570955/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pramod3570955/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pramod3570955/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -111,6 +113,7 @@
 | [0202-happy-number](https://github.com/Pramod3570955/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Pramod3570955/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Pramod3570955/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Pramod3570955/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/Pramod3570955/LeetCode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pramod3570955/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Pramod3570955/LeetCode/tree/master/0877-stone-game) |
@@ -474,6 +477,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Pramod3570955/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Pramod3570955/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Game Theory
 |  |
 | ------- |
@@ -531,4 +535,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Pramod3570955/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Pramod3570955/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
