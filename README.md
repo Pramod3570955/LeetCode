@@ -47,6 +47,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Pramod3570955/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pramod3570955/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/Pramod3570955/LeetCode/tree/master/1089-duplicate-zeros) |
+| [1140-stone-game-ii](https://github.com/Pramod3570955/LeetCode/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pramod3570955/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pramod3570955/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pramod3570955/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -108,6 +109,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Pramod3570955/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Pramod3570955/LeetCode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Pramod3570955/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1140-stone-game-ii](https://github.com/Pramod3570955/LeetCode/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pramod3570955/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pramod3570955/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-stone-game-iii](https://github.com/Pramod3570955/LeetCode/tree/master/1406-stone-game-iii) |
@@ -180,6 +182,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Pramod3570955/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Pramod3570955/LeetCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pramod3570955/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/Pramod3570955/LeetCode/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/Pramod3570955/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Pramod3570955/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Matrix
@@ -231,6 +234,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pramod3570955/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Pramod3570955/LeetCode/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Pramod3570955/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Pramod3570955/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Pramod3570955/LeetCode/tree/master/1406-stone-game-iii) |
 | [2430-maximum-deletions-on-a-string](https://github.com/Pramod3570955/LeetCode/tree/master/2430-maximum-deletions-on-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pramod3570955/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -464,14 +468,17 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Pramod3570955/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Pramod3570955/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Pramod3570955/LeetCode/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Pramod3570955/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Pramod3570955/LeetCode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Pramod3570955/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Pramod3570955/LeetCode/tree/master/1406-stone-game-iii) |
 ## Interactive
 |  |
