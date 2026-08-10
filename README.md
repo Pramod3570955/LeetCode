@@ -351,6 +351,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Pramod3570955/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pramod3570955/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Pramod3570955/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [1192-critical-connections-in-a-network](https://github.com/Pramod3570955/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [3310-remove-methods-from-project](https://github.com/Pramod3570955/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -507,6 +508,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Pramod3570955/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [3310-remove-methods-from-project](https://github.com/Pramod3570955/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
@@ -544,4 +546,12 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pramod3570955/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Pramod3570955/LeetCode/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Pramod3570955/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
