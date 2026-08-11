@@ -66,6 +66,7 @@
 | [1920-build-array-from-permutation](https://github.com/Pramod3570955/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Pramod3570955/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Pramod3570955/LeetCode/tree/master/2239-find-closest-number-to-zero) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pramod3570955/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Pramod3570955/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -92,6 +93,7 @@
 | [0645-set-mismatch](https://github.com/Pramod3570955/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pramod3570955/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Pramod3570955/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pramod3570955/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pramod3570955/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Pramod3570955/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Pramod3570955/LeetCode/tree/master/3731-find-missing-elements) |
@@ -230,6 +232,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Pramod3570955/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pramod3570955/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pramod3570955/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pramod3570955/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pramod3570955/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pramod3570955/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Pramod3570955/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
