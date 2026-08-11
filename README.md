@@ -113,6 +113,7 @@
 | [0048-rotate-image](https://github.com/Pramod3570955/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Pramod3570955/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Pramod3570955/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Pramod3570955/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Pramod3570955/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Pramod3570955/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Pramod3570955/LeetCode/tree/master/0268-missing-number) |
@@ -174,6 +175,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pramod3570955/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Pramod3570955/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Pramod3570955/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pramod3570955/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Pramod3570955/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Pramod3570955/LeetCode/tree/master/0278-first-bad-version) |
@@ -578,4 +580,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Pramod3570955/LeetCode/tree/master/1510-stone-game-iv) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Pramod3570955/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
