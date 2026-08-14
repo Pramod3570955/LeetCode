@@ -53,6 +53,7 @@
 | [0877-stone-game](https://github.com/Pramod3570955/LeetCode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Pramod3570955/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Pramod3570955/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0930-binary-subarrays-with-sum](https://github.com/Pramod3570955/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pramod3570955/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pramod3570955/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/Pramod3570955/LeetCode/tree/master/1089-duplicate-zeros) |
@@ -105,6 +106,7 @@
 | [0567-permutation-in-string](https://github.com/Pramod3570955/LeetCode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Pramod3570955/LeetCode/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Pramod3570955/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Pramod3570955/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pramod3570955/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Pramod3570955/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Pramod3570955/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -223,6 +225,7 @@
 | [0525-contiguous-array](https://github.com/Pramod3570955/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pramod3570955/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Pramod3570955/LeetCode/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/Pramod3570955/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pramod3570955/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Pramod3570955/LeetCode/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/Pramod3570955/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -309,6 +312,7 @@
 | [0567-permutation-in-string](https://github.com/Pramod3570955/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Pramod3570955/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Pramod3570955/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Pramod3570955/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pramod3570955/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pramod3570955/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pramod3570955/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
