@@ -124,6 +124,7 @@
 | [0048-rotate-image](https://github.com/Pramod3570955/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Pramod3570955/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Pramod3570955/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Pramod3570955/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Pramod3570955/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Pramod3570955/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Pramod3570955/LeetCode/tree/master/0202-happy-number) |
@@ -205,6 +206,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Pramod3570955/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Pramod3570955/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Pramod3570955/LeetCode/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/Pramod3570955/LeetCode/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/Pramod3570955/LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -232,6 +234,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Pramod3570955/LeetCode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Pramod3570955/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Pramod3570955/LeetCode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/Pramod3570955/LeetCode/tree/master/0832-flipping-an-image) |
@@ -312,6 +315,7 @@
 | [0020-valid-parentheses](https://github.com/Pramod3570955/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pramod3570955/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Pramod3570955/LeetCode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Pramod3570955/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Pramod3570955/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Pramod3570955/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Pramod3570955/LeetCode/tree/master/0214-shortest-palindrome) |
