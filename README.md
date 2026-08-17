@@ -61,6 +61,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Pramod3570955/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pramod3570955/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pramod3570955/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pramod3570955/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/Pramod3570955/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1140-stone-game-ii](https://github.com/Pramod3570955/LeetCode/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pramod3570955/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -222,6 +223,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pramod3570955/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Pramod3570955/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pramod3570955/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pramod3570955/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pramod3570955/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
