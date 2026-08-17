@@ -28,6 +28,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pramod3570955/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Pramod3570955/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Pramod3570955/LeetCode/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Pramod3570955/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pramod3570955/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pramod3570955/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Pramod3570955/LeetCode/tree/master/0169-majority-element) |
@@ -142,6 +143,7 @@
 | [0067-add-binary](https://github.com/Pramod3570955/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Pramod3570955/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Pramod3570955/LeetCode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Pramod3570955/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Pramod3570955/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Pramod3570955/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Pramod3570955/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -315,6 +317,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Pramod3570955/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pramod3570955/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pramod3570955/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Pramod3570955/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/Pramod3570955/LeetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
