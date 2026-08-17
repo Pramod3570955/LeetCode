@@ -1,0 +1,26 @@
+class Solution {
+    public int[] dailyTemperatures(int[] temperatures) {
+
+        int[] result = new int[temperatures.length];
+
+        Stack<Integer> stack = new Stack<>();
+
+        for (int i = 0; i < temperatures.length; i++) {
+
+            // Find warmer temperature
+            while (!stack.isEmpty() &&
+                   temperatures[stack.peek()] < temperatures[i]) {
+
+                int previous = stack.pop();
+
+                // Calculate days
+                result[previous] = i - previous;
+            }
+
+            // Store current index
+            stack.push(i);
+        }
+
+        return result;
+    }
+}
