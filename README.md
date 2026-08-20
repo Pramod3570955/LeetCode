@@ -49,6 +49,7 @@
 | [0485-max-consecutive-ones](https://github.com/Pramod3570955/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/Pramod3570955/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pramod3570955/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Pramod3570955/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Pramod3570955/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pramod3570955/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Pramod3570955/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -121,6 +122,7 @@
 | [0525-contiguous-array](https://github.com/Pramod3570955/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pramod3570955/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Pramod3570955/LeetCode/tree/master/0567-permutation-in-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Pramod3570955/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Pramod3570955/LeetCode/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Pramod3570955/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Pramod3570955/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -387,6 +389,7 @@
 | [0443-string-compression](https://github.com/Pramod3570955/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Pramod3570955/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Pramod3570955/LeetCode/tree/master/0567-permutation-in-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Pramod3570955/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/Pramod3570955/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Pramod3570955/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Pramod3570955/LeetCode/tree/master/1768-merge-strings-alternately) |
