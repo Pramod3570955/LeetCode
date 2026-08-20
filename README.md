@@ -86,6 +86,7 @@
 | [2239-find-closest-number-to-zero](https://github.com/Pramod3570955/LeetCode/tree/master/2239-find-closest-number-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pramod3570955/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pramod3570955/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Pramod3570955/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Pramod3570955/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Pramod3570955/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Pramod3570955/LeetCode/tree/master/3731-find-missing-elements) |
@@ -241,6 +242,7 @@
 | [0832-flipping-an-image](https://github.com/Pramod3570955/LeetCode/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/Pramod3570955/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Pramod3570955/LeetCode/tree/master/1929-concatenation-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Pramod3570955/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
