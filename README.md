@@ -84,6 +84,7 @@
 | [1672-richest-customer-wealth](https://github.com/Pramod3570955/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Pramod3570955/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Pramod3570955/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/Pramod3570955/LeetCode/tree/master/1872-stone-game-viii) |
 | [1920-build-array-from-permutation](https://github.com/Pramod3570955/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Pramod3570955/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/Pramod3570955/LeetCode/tree/master/2029-stone-game-ix) |
@@ -175,6 +176,7 @@
 | [1406-stone-game-iii](https://github.com/Pramod3570955/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pramod3570955/LeetCode/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/Pramod3570955/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1872-stone-game-viii](https://github.com/Pramod3570955/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Pramod3570955/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Pramod3570955/LeetCode/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/Pramod3570955/LeetCode/tree/master/2235-add-two-integers) |
@@ -274,6 +276,7 @@
 | [1140-stone-game-ii](https://github.com/Pramod3570955/LeetCode/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/Pramod3570955/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Pramod3570955/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/Pramod3570955/LeetCode/tree/master/1872-stone-game-viii) |
 ## Matrix
 |  |
 | ------- |
@@ -337,6 +340,7 @@
 | [1140-stone-game-ii](https://github.com/Pramod3570955/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Pramod3570955/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pramod3570955/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Pramod3570955/LeetCode/tree/master/1872-stone-game-viii) |
 | [2430-maximum-deletions-on-a-string](https://github.com/Pramod3570955/LeetCode/tree/master/2430-maximum-deletions-on-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pramod3570955/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
@@ -638,6 +642,7 @@
 | [1140-stone-game-ii](https://github.com/Pramod3570955/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Pramod3570955/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pramod3570955/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Pramod3570955/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Pramod3570955/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Pramod3570955/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -646,6 +651,7 @@
 | [1140-stone-game-ii](https://github.com/Pramod3570955/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Pramod3570955/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pramod3570955/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Pramod3570955/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Pramod3570955/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -653,6 +659,7 @@
 | [1140-stone-game-ii](https://github.com/Pramod3570955/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Pramod3570955/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pramod3570955/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Pramod3570955/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Pramod3570955/LeetCode/tree/master/2029-stone-game-ix) |
 ## Interactive
 |  |
