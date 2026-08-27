@@ -108,6 +108,7 @@
 | [0049-group-anagrams](https://github.com/Pramod3570955/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Pramod3570955/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Pramod3570955/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/Pramod3570955/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Pramod3570955/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Pramod3570955/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Pramod3570955/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -151,6 +152,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pramod3570955/LeetCode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Pramod3570955/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0146-lru-cache](https://github.com/Pramod3570955/LeetCode/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -641,6 +643,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Pramod3570955/LeetCode/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/Pramod3570955/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pramod3570955/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Game Theory
@@ -768,4 +771,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Pramod3570955/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Pramod3570955/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
