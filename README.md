@@ -90,6 +90,7 @@
 | [2029-stone-game-ix](https://github.com/Pramod3570955/LeetCode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pramod3570955/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2239-find-closest-number-to-zero](https://github.com/Pramod3570955/LeetCode/tree/master/2239-find-closest-number-to-zero) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Pramod3570955/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pramod3570955/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pramod3570955/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Pramod3570955/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -328,6 +329,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pramod3570955/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pramod3570955/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Pramod3570955/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Pramod3570955/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pramod3570955/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pramod3570955/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pramod3570955/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -542,6 +544,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Pramod3570955/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Pramod3570955/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Pramod3570955/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Ordered Set
 |  |
