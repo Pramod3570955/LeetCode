@@ -362,6 +362,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Pramod3570955/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pramod3570955/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pramod3570955/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0232-implement-queue-using-stacks](https://github.com/Pramod3570955/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/Pramod3570955/LeetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -654,6 +655,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Pramod3570955/LeetCode/tree/master/0146-lru-cache) |
+| [0232-implement-queue-using-stacks](https://github.com/Pramod3570955/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Pramod3570955/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pramod3570955/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Game Theory
@@ -727,6 +729,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Pramod3570955/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Pramod3570955/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pramod3570955/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Randomized
