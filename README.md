@@ -157,6 +157,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pramod3570955/LeetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Pramod3570955/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Pramod3570955/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0146-lru-cache](https://github.com/Pramod3570955/LeetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Pramod3570955/LeetCode/tree/master/0206-reverse-linked-list) |
@@ -206,6 +207,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pramod3570955/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Pramod3570955/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/Pramod3570955/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Pramod3570955/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Pramod3570955/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Pramod3570955/LeetCode/tree/master/0206-reverse-linked-list) |
