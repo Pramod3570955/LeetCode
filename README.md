@@ -176,6 +176,7 @@
 | [0148-sort-list](https://github.com/Pramod3570955/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pramod3570955/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Pramod3570955/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Pramod3570955/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Pramod3570955/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -230,6 +231,7 @@
 | [0050-powx-n](https://github.com/Pramod3570955/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Pramod3570955/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Pramod3570955/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Pramod3570955/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -253,6 +255,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Pramod3570955/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pramod3570955/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Pramod3570955/LeetCode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Pramod3570955/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Pramod3570955/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Pramod3570955/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pramod3570955/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -405,6 +408,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pramod3570955/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Pramod3570955/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Pramod3570955/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/Pramod3570955/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Pramod3570955/LeetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
