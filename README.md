@@ -542,6 +542,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Pramod3570955/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pramod3570955/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Pramod3570955/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Pramod3570955/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pramod3570955/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
@@ -554,6 +555,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Pramod3570955/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pramod3570955/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Pramod3570955/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Pramod3570955/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/Pramod3570955/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [3310-remove-methods-from-project](https://github.com/Pramod3570955/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -569,6 +571,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Pramod3570955/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pramod3570955/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Pramod3570955/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Pramod3570955/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pramod3570955/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -584,6 +587,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pramod3570955/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pramod3570955/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Pramod3570955/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Pramod3570955/LeetCode/tree/master/0226-invert-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Pramod3570955/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Pramod3570955/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Counting Sort
