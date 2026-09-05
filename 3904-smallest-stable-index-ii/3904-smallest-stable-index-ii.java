@@ -1,0 +1,35 @@
+class Solution {
+    public int firstStableIndex(int[] nums, int k) {
+
+        int n = nums.length;
+
+        int[] right = new int[n];
+
+        // Build suffix minimum
+        right[n - 1] = nums[n - 1];
+
+        for (int i = n - 2; i >= 0; i--) {
+            // your code
+            right[i] = Math.min(nums[i], right[i + 1]);
+        }
+
+        // Find answer
+        int left = 0;
+
+        for (int i = 0; i < n; i++) {
+
+            // update left
+            left = Math.max(left, nums[i]);
+
+            // calculate instability
+            int instability = left - right[i];
+
+            // check if stable
+            if(instability <= k){
+                return i;
+            }
+        }
+
+        return -1;
+    }
+}
