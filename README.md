@@ -57,6 +57,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Pramod3570955/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Pramod3570955/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Pramod3570955/LeetCode/tree/master/0645-set-mismatch) |
+| [0699-falling-squares](https://github.com/Pramod3570955/LeetCode/tree/master/0699-falling-squares) |
 | [0704-binary-search](https://github.com/Pramod3570955/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Pramod3570955/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Pramod3570955/LeetCode/tree/master/0739-daily-temperatures) |
@@ -665,6 +666,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0699-falling-squares](https://github.com/Pramod3570955/LeetCode/tree/master/0699-falling-squares) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pramod3570955/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Pramod3570955/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Database
@@ -900,6 +902,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0699-falling-squares](https://github.com/Pramod3570955/LeetCode/tree/master/0699-falling-squares) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pramod3570955/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Trie
 |  |
