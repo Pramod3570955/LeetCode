@@ -52,6 +52,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pramod3570955/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/Pramod3570955/LeetCode/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/Pramod3570955/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0502-ipo](https://github.com/Pramod3570955/LeetCode/tree/master/0502-ipo) |
 | [0525-contiguous-array](https://github.com/Pramod3570955/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pramod3570955/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Pramod3570955/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -394,6 +395,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pramod3570955/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Pramod3570955/LeetCode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Pramod3570955/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/Pramod3570955/LeetCode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Pramod3570955/LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pramod3570955/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Pramod3570955/LeetCode/tree/master/0645-set-mismatch) |
@@ -552,6 +554,7 @@
 | [0011-container-with-most-water](https://github.com/Pramod3570955/LeetCode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Pramod3570955/LeetCode/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/Pramod3570955/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0502-ipo](https://github.com/Pramod3570955/LeetCode/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/Pramod3570955/LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Pramod3570955/LeetCode/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/Pramod3570955/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -815,6 +818,7 @@
 | [0355-design-twitter](https://github.com/Pramod3570955/LeetCode/tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pramod3570955/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Pramod3570955/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/Pramod3570955/LeetCode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Pramod3570955/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Pramod3570955/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pramod3570955/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
