@@ -822,6 +822,7 @@
 | [3497-analyze-subscription-conversion](https://github.com/Pramod3570955/LeetCode/tree/master/3497-analyze-subscription-conversion) |
 | [3554-find-category-recommendation-pairs](https://github.com/Pramod3570955/LeetCode/tree/master/3554-find-category-recommendation-pairs) |
 | [3564-seasonal-sales-analysis](https://github.com/Pramod3570955/LeetCode/tree/master/3564-seasonal-sales-analysis) |
+| [3570-find-books-with-no-available-copies](https://github.com/Pramod3570955/LeetCode/tree/master/3570-find-books-with-no-available-copies) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
