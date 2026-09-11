@@ -820,6 +820,7 @@
 | [3436-find-valid-emails](https://github.com/Pramod3570955/LeetCode/tree/master/3436-find-valid-emails) |
 | [3482-analyze-organization-hierarchy](https://github.com/Pramod3570955/LeetCode/tree/master/3482-analyze-organization-hierarchy) |
 | [3497-analyze-subscription-conversion](https://github.com/Pramod3570955/LeetCode/tree/master/3497-analyze-subscription-conversion) |
+| [3554-find-category-recommendation-pairs](https://github.com/Pramod3570955/LeetCode/tree/master/3554-find-category-recommendation-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
