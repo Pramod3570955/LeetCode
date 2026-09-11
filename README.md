@@ -818,6 +818,7 @@
 | [1978-employees-whose-manager-left-the-company](https://github.com/Pramod3570955/LeetCode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Pramod3570955/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3436-find-valid-emails](https://github.com/Pramod3570955/LeetCode/tree/master/3436-find-valid-emails) |
+| [3482-analyze-organization-hierarchy](https://github.com/Pramod3570955/LeetCode/tree/master/3482-analyze-organization-hierarchy) |
 | [3497-analyze-subscription-conversion](https://github.com/Pramod3570955/LeetCode/tree/master/3497-analyze-subscription-conversion) |
 ## Heap (Priority Queue)
 |  |
