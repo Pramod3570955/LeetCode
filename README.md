@@ -63,6 +63,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Pramod3570955/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Pramod3570955/LeetCode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Pramod3570955/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/Pramod3570955/LeetCode/tree/master/0695-max-area-of-island) |
 | [0699-falling-squares](https://github.com/Pramod3570955/LeetCode/tree/master/0699-falling-squares) |
 | [0704-binary-search](https://github.com/Pramod3570955/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Pramod3570955/LeetCode/tree/master/0724-find-pivot-index) |
@@ -381,6 +382,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Pramod3570955/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Pramod3570955/LeetCode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pramod3570955/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0695-max-area-of-island](https://github.com/Pramod3570955/LeetCode/tree/master/0695-max-area-of-island) |
 | [0832-flipping-an-image](https://github.com/Pramod3570955/LeetCode/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Pramod3570955/LeetCode/tree/master/0835-image-overlap) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pramod3570955/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -668,6 +670,7 @@
 | [0437-path-sum-iii](https://github.com/Pramod3570955/LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Pramod3570955/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Pramod3570955/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [0695-max-area-of-island](https://github.com/Pramod3570955/LeetCode/tree/master/0695-max-area-of-island) |
 | [1192-critical-connections-in-a-network](https://github.com/Pramod3570955/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pramod3570955/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Pramod3570955/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -732,6 +735,7 @@
 | [0200-number-of-islands](https://github.com/Pramod3570955/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Pramod3570955/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pramod3570955/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Pramod3570955/LeetCode/tree/master/0695-max-area-of-island) |
 | [3310-remove-methods-from-project](https://github.com/Pramod3570955/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Pramod3570955/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Counting Sort
@@ -757,6 +761,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Pramod3570955/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Pramod3570955/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Pramod3570955/LeetCode/tree/master/0695-max-area-of-island) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Pramod3570955/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Pramod3570955/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Ordered Set
