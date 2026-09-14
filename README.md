@@ -92,6 +92,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pramod3570955/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Pramod3570955/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Pramod3570955/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pramod3570955/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/Pramod3570955/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/Pramod3570955/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pramod3570955/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -440,6 +441,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Pramod3570955/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Pramod3570955/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Pramod3570955/LeetCode/tree/master/1406-stone-game-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pramod3570955/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/Pramod3570955/LeetCode/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Pramod3570955/LeetCode/tree/master/1872-stone-game-viii) |
 | [2430-maximum-deletions-on-a-string](https://github.com/Pramod3570955/LeetCode/tree/master/2430-maximum-deletions-on-a-string) |
@@ -488,6 +490,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Pramod3570955/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pramod3570955/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pramod3570955/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pramod3570955/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Pramod3570955/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pramod3570955/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pramod3570955/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
