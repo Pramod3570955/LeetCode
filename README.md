@@ -104,6 +104,7 @@
 | [1920-build-array-from-permutation](https://github.com/Pramod3570955/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Pramod3570955/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/Pramod3570955/LeetCode/tree/master/2029-stone-game-ix) |
+| [2090-k-radius-subarray-averages](https://github.com/Pramod3570955/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pramod3570955/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2239-find-closest-number-to-zero](https://github.com/Pramod3570955/LeetCode/tree/master/2239-find-closest-number-to-zero) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Pramod3570955/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -496,6 +497,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pramod3570955/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pramod3570955/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pramod3570955/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2090-k-radius-subarray-averages](https://github.com/Pramod3570955/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Pramod3570955/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pramod3570955/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pramod3570955/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
