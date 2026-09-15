@@ -313,6 +313,7 @@
 | [1089-duplicate-zeros](https://github.com/Pramod3570955/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Pramod3570955/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Pramod3570955/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pramod3570955/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pramod3570955/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Pramod3570955/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Binary Search
@@ -459,6 +460,7 @@
 | [1510-stone-game-iv](https://github.com/Pramod3570955/LeetCode/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Pramod3570955/LeetCode/tree/master/1872-stone-game-viii) |
 | [2430-maximum-deletions-on-a-string](https://github.com/Pramod3570955/LeetCode/tree/master/2430-maximum-deletions-on-a-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pramod3570955/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pramod3570955/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Pramod3570955/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Stack
@@ -559,6 +561,7 @@
 | [1927-sum-game](https://github.com/Pramod3570955/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pramod3570955/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2430-maximum-deletions-on-a-string](https://github.com/Pramod3570955/LeetCode/tree/master/2430-maximum-deletions-on-a-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pramod3570955/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Pramod3570955/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pramod3570955/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pramod3570955/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -598,6 +601,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Pramod3570955/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Pramod3570955/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Pramod3570955/LeetCode/tree/master/2029-stone-game-ix) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pramod3570955/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pramod3570955/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pramod3570955/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pramod3570955/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
