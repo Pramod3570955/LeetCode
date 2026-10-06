@@ -491,6 +491,7 @@
 | [0234-palindrome-linked-list](https://github.com/Pramod3570955/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Pramod3570955/LeetCode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Pramod3570955/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pramod3570955/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -564,6 +565,7 @@
 | [0692-top-k-frequent-words](https://github.com/Pramod3570955/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Pramod3570955/LeetCode/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/Pramod3570955/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pramod3570955/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Pramod3570955/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Pramod3570955/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Pramod3570955/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
@@ -612,6 +614,7 @@
 | [0621-task-scheduler](https://github.com/Pramod3570955/LeetCode/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/Pramod3570955/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/Pramod3570955/LeetCode/tree/master/0767-reorganize-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pramod3570955/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Pramod3570955/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Pramod3570955/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Pramod3570955/LeetCode/tree/master/1927-sum-game) |
@@ -1119,4 +1122,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Pramod3570955/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pramod3570955/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
